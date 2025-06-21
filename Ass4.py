@@ -13,7 +13,7 @@ def read_file():
 read_file()
 
 
-#Task 2
+#Task 2 com
 def write_and_append_file():
     # Step 1: Write user input to a file
     user_input = input("Enter some text to write to the file: ")
