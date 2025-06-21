@@ -10,7 +10,6 @@ num = int(input("Enter a number: "))
 print("Factorial of", num, "is", factorial(num))
 
 import math
-from math import *
 
 n = int(input("Enter a number: "))
 sq = math.sqrt(n)
