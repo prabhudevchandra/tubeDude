@@ -11,7 +11,7 @@ else:
 
 # Task 2: Demonstrate List Slicing
 l = []
-for i in range(1,11):
+for i in range(1,11):  #appending number to list from 1 to 10
     l.append(i)
 print(f'Original list: {l}')
 e = l[:5]
